@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td style="vertical-align: top;">
-      <pre style="font-size: 9px; line-height: 1;">
+      <pre style="font-size: 4px; line-height: 1;">
 ..........................................,,,,,,,,,,,,,,,
 ............................,..............,,,,,,,,,,,,,,
 ....................*#&&&&#/,*%&&(/(*,,........,,,,,,,,,,
@@ -45,8 +45,8 @@
 &&&&&&&&&&&&&&&&&&&&&&&%%&&&&&&&&&@&&&&&&&&&@&&@&&&&&&&&&
 &&&&&&&&&&&&&&&&&&&&&&&,&&&&&&&&&&&&&&&&&#&&&&&&&&&&&&&@&
 
-      </pre>
-    </td>
+  </pre>
+  </td>
   <td style="vertical-align: top; padding-left: 20px;">
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/FrameworkV/FoodFusionAI">FoodFusionAI</a></li>
