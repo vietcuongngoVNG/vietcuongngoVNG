@@ -8,8 +8,8 @@
 
 <table>
   <tr>
-    <td>
-      <pre>
+    <td style="vertical-align: top;">
+      <pre style="font-size: 12px; line-height: 1;">
 .......................................................,,,,,,,,,,,,,,,,,,,,,,,,,
 .........................................,..............,,,,,,,,,,,,,,,,,,,,,,,,
 .................................*#&&&&#/,*%&&(/(*,,........,,,,,,,,,,,,,,,,,,,,
@@ -31,9 +31,9 @@
                            /#((/*/((/*,**(*******/((@........................,.,
                              (((///***,,,,,*,***/(#(&.........................,,
                                ((/***,,,,,**//#%#/*(@@@,.......................,
-                           .@@@(#(%##/*((%%%##/**,*/(@@&&.......................
+                           .@@@(#(%##/*((%%%##/**,*/(@@&&.......................  
                           %@@@@/((#####(///***,,,,,*((&&@&&&....................
-                        .%&&@@&//((#((/*****,,,,,,**@&@@&&&&&@&&%...............
+                        .%&&@@&//((#((/*****,,,,,,**@&@@&&&&&@&&%............... 
                    *&&&%%&&&&%%////(///*,*,,,,,,,,&&&@&&&&&@&@&@&&&&&&&%........
              (%%%%%&&&&&&&&&&&#%(//*///*****,,,*&&&&@&&&&&@&&&&&&&&&&&&&&&@&#...
           #%%&%&&&&&&&&&&&&&&&&@(//*********,*@&&&&@&&&&&@&&&&&@&&&&&&&&&&@&&@&&
@@ -46,22 +46,18 @@
    &&&&&&&&&@&&&&&&&&&&&&&&&&&&&&&&&,&&&&&&&&&&&&&&&&&#&&&&&&&&&&&&&@&&@&&&&@&@@
       </pre>
     </td>
-
-    <td>
-- 🔭 I’m currently working on [FoodFusionAI](https://github.com/FrameworkV/FoodFusionAI)
-
-- 🎓 Humboldt University of Berlin, Germany             [**Bachelor's Degree**]
-- ✏️ Bachelor thesis: "Explainable Machine Learning Mispredictions"
-- 🎓 Technical University of Berlin, Germany             [**Visiting student**]
-- 🎓 Yonsei University, Seoul, South Korea             [**Exchange student**]
-
-- 🌱 I’m currently learning **machine learning, app development**
-
-- 📫 How to reach me **ngocuong@student.hu-berlin.de**
-
-- ⚡ Fun fact **i used to resolve merge conflicts in vim lol**
-     </td>
-
+    <td style="vertical-align: top; padding-left: 20px;">
+      <ul>
+        <li>🔭 I’m currently working on <a href="https://github.com/FrameworkV/FoodFusionAI">FoodFusionAI</a></li>
+        <li>🎓 <b>Humboldt University of Berlin, Germany</b> [<b>Bachelor's Degree</b>]</li>
+        <li>✏️ <b>Bachelor thesis:</b> "Explainable Machine Learning Mispredictions"</li>
+        <li>🎓 <b>Technical University of Berlin, Germany</b> [<b>Visiting student</b>]</li>
+        <li>🎓 <b>Yonsei University, Seoul, South Korea</b> [<b>Exchange student</b>]</li>
+        <li>🌱 I’m currently learning <b>machine learning, app development</b></li>
+        <li>📫 How to reach me: <a href="mailto:ngocuong@student.hu-berlin.de">ngocuong@student.hu-berlin.de</a></li>
+        <li>⚡ Fun fact: I used to resolve merge conflicts in vim lol!</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
