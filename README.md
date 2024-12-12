@@ -8,11 +8,12 @@
 
 - 🔭 I’m currently working on [FoodFusionAI](https://github.com/FrameworkV/FoodFusionAI)
 
-- 🎓 Yonsei University, Seoul, South Korea **Exchange student**
+- 🎓 Yonsei University, Seoul, South Korea             **Exchange student**
 
-- 🎓 Humboldt University of Berlin, Germany [Bachelor's Degree]("Explainable Machine Learning Mispredictions")
+- 🎓 Humboldt University of Berlin, Germany             **Bachelor's Degree**
+          - "Explainable Machine Learning Mispredictions"
 
-- 🎓 Technical University of Berlin, Germany **Visiting student**
+- 🎓 Technical University of Berlin, Germany             **Visiting student**
 
 - 🌱 I’m currently learning **machine learning, app development**
 
