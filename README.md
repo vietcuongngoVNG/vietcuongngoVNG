@@ -47,7 +47,7 @@
 
       </pre>
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
+  <td style="vertical-align: top; padding-left: 20px;">
       <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/FrameworkV/FoodFusionAI">FoodFusionAI</a></li>
         <li>🎓 <b>Humboldt University of Berlin, Germany</b> [<b>Bachelor's Degree</b>]</li>
