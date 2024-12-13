@@ -53,7 +53,6 @@
       </ul>
 
   <br></br>
-  <br></br>
 
   <h3 style="padding-left: 20px; padding-top: 100px;" align="center">Connect with me:</h3>
 <p align="center">
@@ -74,7 +73,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vietcuongngoVNG&show_icons=true&locale=en" alt="vietcuongngoVNG" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vietcuongngoVNG&" alt="vietcuongngoVNG" /></p>
-<br></br>
-<br></br>
-<br></br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vietcuongngoVNG&show_icons=true&locale=en&layout=compact" alt="vietcuongngoVNG" /></p>
