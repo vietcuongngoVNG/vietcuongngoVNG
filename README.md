@@ -56,7 +56,7 @@
 
   <h3 style="padding-left: 20px; padding-top: 100px;" align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/viet cuong ngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viet cuong ngo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/viet-cuong-ngo-285160247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viet cuong ngo" height="30" width="40" /></a>
 <a href="https://instagram.com/viet.cng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="viet.cng" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vietcuongngo02v1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vietcuongngo02v1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/viet_cuong_ngo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viet_cuong_ngo" height="30" width="40" /></a>
